@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # Flask and Python environment
-.env
 .venv/
 venv/
 env/
@@ -42,7 +41,6 @@ coverage.xml
 .ipynb_checkpoints
 
 # VS Code & IDEs
-.vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
@@ -62,3 +60,5 @@ scaler.pkl
 # System files
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
